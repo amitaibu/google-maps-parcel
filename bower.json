@@ -1,0 +1,20 @@
+{
+  "name": "google-maps-parcel",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Amitai Burstein <amitai@gizra.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/amitaibu/google-maps-parcel",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "google-map": "GoogleWebComponents/google-map#^2.0.5"
+  }
+}
